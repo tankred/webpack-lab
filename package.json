@@ -1,20 +1,28 @@
 {
   "name": "webpack-lab",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "webpack Tutorial: How to Set Up webpack 5 From Scratch\r By Tania Rascia\r * [https://www.taniarascia.com/how-to-use-webpack/](https://www.taniarascia.com/how-to-use-webpack/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tankred/webpack-lab.git"
   },
-  "keywords": [webpack],
+  "keywords": [
+    "webpack"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tankred/webpack-lab/issues"
   },
-  "homepage": "https://github.com/tankred/webpack-lab#readme"
+  "homepage": "https://github.com/tankred/webpack-lab#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.1",
+    "webpack": "^5.18.0",
+    "webpack-cli": "^4.4.0"
+  }
 }
