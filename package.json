@@ -1,6 +1,6 @@
 {
   "name": "webpack-lab",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "webpack Tutorial: How to Set Up webpack 5 From Scratch\r By Tania Rascia\r * [https://www.taniarascia.com/how-to-use-webpack/](https://www.taniarascia.com/how-to-use-webpack/)",
   "main": "index.js",
   "scripts": {
