@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.8] - 2021-02-05
+### Added
+- Add images
+
 ## [0.1.7] - 2021-02-03
 ### Added
 - npm i -D clean-webpack-plugin
