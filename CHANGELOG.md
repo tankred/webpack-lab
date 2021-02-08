@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.2.0] - 2021-02-08
+### Changed
+- Bump version to 0.2.0
+
 ## [0.1.9] - 2021-02-08
 ### Changed
 - Add fonts and svg 
@@ -35,8 +41,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Node modules npm i -D webpack webpack-cli
 ### Changed
 - Ignore node modules in repo
-
-## [Released]
 
 ## [0.1.2] - 2021-01-26
 ### Added
