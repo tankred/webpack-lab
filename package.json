@@ -1,6 +1,6 @@
 {
   "name": "webpack-lab",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "webpack Tutorial: How to Set Up webpack 5 From Scratch\r By Tania Rascia\r * [https://www.taniarascia.com/how-to-use-webpack/](https://www.taniarascia.com/how-to-use-webpack/)",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/tankred/webpack-lab#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
     "html-webpack-plugin": "^4.5.1",
     "webpack": "^5.18.0",
     "webpack-cli": "^4.4.0"
