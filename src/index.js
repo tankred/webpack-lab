@@ -1,5 +1,6 @@
 import example from './images/agave-color.png'
 import logo from './images/logo.svg'
+import './styles/main.scss'
 
 console.log('Interesting!')
 // Create heading node
