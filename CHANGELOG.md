@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.3.0] - 2021-02-11
+### Changed
+- Bump version to 0.3.0
+
 ## [0.2.2] - 2021-02-10
 ### Changed
 - Setup development env
@@ -15,8 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Import styles
 ### Added
 - Sass css file
-
-## [Released]
 
 ## [0.2.0] - 2021-02-08
 ### Changed
