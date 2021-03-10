@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.1] - 2021-03-10
+### Added
+- Index html to src dir
+
 ## [Released]
 
 ## [0.3.0] - 2021-02-11
