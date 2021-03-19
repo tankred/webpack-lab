@@ -5,11 +5,8 @@ const webpack = require('webpack')
 
 module.exports = {
   entry: {
+//    app: './src/index.js',
     main: path.resolve(__dirname, './src/index.js'),
-  },
-  output: {
-    path: path.resolve(__dirname, './dist'),
-    filename: '[name].bundle.js',
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -40,13 +37,9 @@ module.exports = {
       },
     ],
   },
-  mode: 'development',
-  devServer: {
-    historyApiFallback: true,
-    contentBase: path.resolve(__dirname, './dist'),
-    open: true,
-    compress: true,
-    hot: true,
-    port: 8080,
+  output: {
+    filename: '[name].bundle.js',
+      path: path.resolve(__dirname, 'dist'),
+      //clean: true,
   },
 }
