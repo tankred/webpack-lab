@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.3] - 2021-03-22
+### Changed
+- Minify CSS for production
+
 ## [0.3.2] - 2021-03-19
 ### Changed
 - Build for production
