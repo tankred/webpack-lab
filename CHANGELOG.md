@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.5] - 2021-09-22
+### Changed
+- Ignore iss-NN.md
+
 ## [0.3.4] - 2021-09-20
 ### Added
 - Minify agave image using dithering
