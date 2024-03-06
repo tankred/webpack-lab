@@ -1,5 +1,8 @@
 # Webpack lab
 
+THIS REPO is ARCHIVED.
+
+
 webpack Tutorial: How to Set Up webpack 5 From Scratch
 By Tania Rascia
 * [https://www.taniarascia.com/how-to-use-webpack/](https://www.taniarascia.com/how-to-use-webpack/)
